@@ -1,3 +1,3 @@
-#Fashion website for clothing recommendation and shopping
+Fashion website for clothing recommendation and shopping
 
 
