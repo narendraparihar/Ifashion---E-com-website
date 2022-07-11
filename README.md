@@ -10,4 +10,4 @@ Web ScreenShots
 
 ![image](https://user-images.githubusercontent.com/48486760/178268123-1088c821-fa9f-45ba-a455-a5189dbe8244.png)
 
-![image](https://user-images.githubusercontent.com/48486760/178268147-7a0b674c-3449-4d79-a164-1915deff87dd.png)
+![image](https://user-images.githubusercontent.com/48486760/178268317-44e29dca-6a8c-4cd5-a8fd-07414456b0e5.png)
